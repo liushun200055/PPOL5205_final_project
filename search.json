@@ -1,0 +1,121 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "A Comparative Analysis of US Interest Rate Communication Styles: Insights from Media Outlets Across Major Economies",
+    "section": "",
+    "text": "As one of the most critical issues of the 21st century, the COVID-19 pandemic was widely discussed for its public health threat during the pandemic era. In the post-pandemic era, however, the focus has shifted to its role in triggering a global financial crisis. Supply chain disruptions and shortages in goods and services have driven up prices, contributing to inflation in the post-pandemic era. Additionally, the Russia-Ukraine war has further intensified inflationary pressures, particularly by increasing energy and food costs.\nLike other major economies, the United States has not been immune to the financial challenges caused by both the pandemic and the Russia-Ukraine conflict. In response to these inflationary pressures, the Federal Reserve raised the Federal Funds Rate from 0.25% to 5.5% between March 17, 2022, and July 26, 2024. However, these prolonged high interest rates have had adverse effects on the global economy. Higher US interest rates have attracted both domestic and international investors, leading to capital outflows that can destabilize emerging markets by weakening their local currencies. At the same time, these rates have disrupted global trade: while countries dependent on exports may benefit from increased demand due to relatively cheaper prices for US consumers, the higher borrowing costs in the US significantly dampen consumer spending and investment.\nGiven these global economic ramifications, it is crucial to study how media outlets from different countries report and interpret US monetary policy. Understanding these cross-national media narratives can offer valuable insights for policymakers and investors, helping them better anticipate the potential impacts of US interest rate changes on foreign markets."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Introduction",
+    "section": "",
+    "text": "This study aims to collect data from media outlets in major economies such as the United States, the United Kingdom, Canada, China, and Japan to facilitate a comprehensive comparison of communication styles regarding US monetary policy. However, due to limited access to some media outlets’ APIs, the study will focus on data from sources that offer free API subscriptions. At present, the available media outlets include The New York Times from the United States and The Guardian from the United Kingdom. While these sources provide valuable observations, they only represent two countries. Therefore, the next step of this study will be to explore additional media sources to gain more diverse insights into communication styles.\nThe current dataset consists of 1,000 observations, with 500 from The New York Times and 500 from The Guardian. The dataset includes the following features: headline, snippet, website url, and publication date. The visualizations below provide an overview of the “snippet” column for The Guardian data. Some key words like “inflation”, “interest rate” and “central ban” are frequently mentioned, which is consistent with searching plan. However, additional steps are required before applying data science methodologies, such as refining search filters to capture accurate mentions of US interest rates, capturing words representing emotions, expanding the stop words list to exclude irrelevant content, removing verb tenses, normalizing the data, and more."
+  },
+  {
+    "objectID": "about.html#quarto",
+    "href": "about.html#quarto",
+    "title": "Final_Project_Website",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "about.html#research-objective",
+    "href": "about.html#research-objective",
+    "title": "Introduction",
+    "section": "",
+    "text": "As one of the most critical issues of the 21st century, the COVID-19 pandemic was widely discussed for its public health threat during the pandemic era. In the post-pandemic era, however, the focus has shifted to its role in triggering a global financial crisis. Supply chain disruptions and shortages in goods and services have driven up prices, contributing to inflation in the post-pandemic era. Additionally, the Russia-Ukraine war has further intensified inflationary pressures, particularly by increasing energy and food costs.\nLike other major economies, the United States has not been immune to the financial challenges caused by both the pandemic and the Russia-Ukraine conflict. In response to these inflationary pressures, the Federal Reserve raised the Federal Funds Rate from 0.25% to 5.5% between March 17, 2022, and July 26, 2024. However, these prolonged high interest rates have had adverse effects on the global economy. Higher US interest rates have attracted both domestic and international investors, leading to capital outflows that can destabilize emerging markets by weakening their local currencies. At the same time, these rates have disrupted global trade: while countries dependent on exports may benefit from increased demand due to relatively cheaper prices for US consumers, the higher borrowing costs in the US significantly dampen consumer spending and investment.\nGiven these global economic ramifications, it is crucial to study how media outlets from different countries report and interpret US monetary policy. Understanding these cross-national media narratives can offer valuable insights for policymakers and investors, helping them better anticipate the potential impacts of US interest rate changes on foreign markets."
+  },
+  {
+    "objectID": "about.html#data",
+    "href": "about.html#data",
+    "title": "Introduction",
+    "section": "",
+    "text": "This study aims to collect data from media outlets in major economies such as the United States, the United Kingdom, Canada, China, and Japan to facilitate a comprehensive comparison of communication styles regarding US monetary policy. However, due to limited access to some media outlets’ APIs, the study will focus on data from sources that offer free API subscriptions. At present, the available media outlets include The New York Times from the United States and The Guardian from the United Kingdom. While these sources provide valuable observations, they only represent two countries. Therefore, the next step of this study will be to explore additional media sources to gain more diverse insights into communication styles.\nThe current dataset consists of 1,000 observations, with 500 from The New York Times and 500 from The Guardian. The dataset includes the following features: headline, snippet, website url, and publication date. The visualizations below provide an overview of the “snippet” column for The Guardian data. Some key words like “inflation”, “interest rate” and “central ban” are frequently mentioned, which is consistent with searching plan. However, additional steps are required before applying data science methodologies, such as refining search filters to capture accurate mentions of US interest rates, capturing words representing emotions, expanding the stop words list to exclude irrelevant content, removing verb tenses, normalizing the data, and more."
+  },
+  {
+    "objectID": "about.html#methodology",
+    "href": "about.html#methodology",
+    "title": "Introduction",
+    "section": "Methodology",
+    "text": "Methodology\nTo compare communication styles across media outlets from different countries, this study will employ the following data science methodologies:\n\nDimensionality Reduction (PCA): Principal Component Analysis will be applied to reduce the complexity of the text data, focusing on key features from media outlets in various countries. This technique allows for comparisons based on a smaller subset of features that capture the greatest variance in communication styles. One example of PCA application that could serve as a reference involves researchers collecting text data from political debates and speeches. They extracted key linguistic features, such as sentiment, keyword frequency, and tone, and applied PCA to reduce the number of variables. This enabled them to identify underlying dimensions and map out how different political parties’ communication styles varied.\nClustering Analysis: After reducing the dimensionality of the dataset, clustering techniques such as k-means or hierarchical clustering will be used to group media outlets based on the similarities in their communication styles. This approach will help identify which countries or regions tend to adopt similar narrative patterns when discussing US interest rates, potentially reflecting geopolitical or economic alignment."
+  },
+  {
+    "objectID": "outcome.html#graph-2-clutsering-analysis",
+    "href": "outcome.html#graph-2-clutsering-analysis",
+    "title": "Research Outcome",
+    "section": "Graph 2: Clutsering Analysis",
+    "text": "Graph 2: Clutsering Analysis"
+  },
+  {
+    "objectID": "outcome.html#table-1",
+    "href": "outcome.html#table-1",
+    "title": "Research Outcome",
+    "section": "Table 1:",
+    "text": "Table 1:"
+  },
+  {
+    "objectID": "outcome.html#table-1-percentage-of-articles-by-source-across-clusters",
+    "href": "outcome.html#table-1-percentage-of-articles-by-source-across-clusters",
+    "title": "Research Outcome",
+    "section": "Table 1: Percentage of Articles by Source Across Clusters",
+    "text": "Table 1: Percentage of Articles by Source Across Clusters"
+  },
+  {
+    "objectID": "outcome.html#figure-2-clutsering-analysis",
+    "href": "outcome.html#figure-2-clutsering-analysis",
+    "title": "Research Outcome",
+    "section": "Figure 2: Clutsering Analysis",
+    "text": "Figure 2: Clutsering Analysis"
+  },
+  {
+    "objectID": "outcome.html#figure-3-percentage-of-articles-by-source-across-clusters",
+    "href": "outcome.html#figure-3-percentage-of-articles-by-source-across-clusters",
+    "title": "Research Outcome",
+    "section": "Figure 3: Percentage of Articles by Source Across Clusters",
+    "text": "Figure 3: Percentage of Articles by Source Across Clusters"
+  },
+  {
+    "objectID": "outcome.html#figure-4-emotion-word-cloud-across-clusters",
+    "href": "outcome.html#figure-4-emotion-word-cloud-across-clusters",
+    "title": "Research Outcome",
+    "section": "Figure 4: Emotion Word Cloud Across Clusters",
+    "text": "Figure 4: Emotion Word Cloud Across Clusters"
+  },
+  {
+    "objectID": "casestudy.html#cluster-1-more-confrontational-or-dramatic-with-words-suggesting-conflict-or-victory",
+    "href": "casestudy.html#cluster-1-more-confrontational-or-dramatic-with-words-suggesting-conflict-or-victory",
+    "title": "Case Study",
+    "section": "Cluster 1: More confrontational or dramatic, with words suggesting conflict or victory",
+    "text": "Cluster 1: More confrontational or dramatic, with words suggesting conflict or victory\nThe Guardian\n\nHeadline: America’s fight with inflation has been won – just in time for a bigger battle\nSnippet: The Fed is likely to cut base rates this month – but its decision will come the day after an explosive US election\nLeading Paragraph: There could be recriminations, protest marches and even social unrest on US city streets when Federal Reserve officials meet at their Washington HQ a day after the election of a new president on 5 November.\nProof from the Remaining Texts:\n\n\nThe New York Times\n\nHeadline: Why You Should Be Taking a Hard Look at Your Investments Right Now\nSnippet: After big gains in stocks and mediocre returns for bonds, investors are taking on undue risk if they don’t rebalance their holdings, our columnist says.\nLeading Paragraph: All eyes were on the Federal Reserve this past week, or so several market analysts solemnly said. This was true even though the Fed essentially did nothing in its latest meeting but hold interest rates high to fight inflation, just as it has done for many months.\nProof from the Remaining Texts:"
+  },
+  {
+    "objectID": "casestudy.html#cluster-2-descriptive-focused-on-changes-challenges-or-actions",
+    "href": "casestudy.html#cluster-2-descriptive-focused-on-changes-challenges-or-actions",
+    "title": "Case Study",
+    "section": "Cluster 2: Descriptive, focused on changes, challenges, or actions",
+    "text": "Cluster 2: Descriptive, focused on changes, challenges, or actions\nThe Guardian\n\nHeadline: ECB cuts interest rate to 3.5% and warns of weak eurozone growth\nSnippet: European Central Bank makes 0.25-point cut as expected after eurozone inflation fell to 2.2% in August\nLeading Paragraph: The European Central Bank has lowered interest rates for the second time this year, as it warned that economic growth in the eurozone will be weaker than it had hoped.\nProof from the Remaining Texts:\n\n\nThe New York Times\n\nHeadline: What Trump Has Said About Rates, and Why It Matters\nSnippet: He has suggested that presidents should “have a say” on interest rates, though he later walked the comment back.\nLeading Paragraph: Federal Reserve officials do not answer to the White House and they insist that they do not take politics into account when they are setting interest rates. But because borrowing costs have a big effect on the economy and the nation’s economic vibe, the central bank’s decision on Wednesday is sure to draw political attention.\nProof from the Remaining Texts:"
+  },
+  {
+    "objectID": "policyimplication.html",
+    "href": "policyimplication.html",
+    "title": "Policy Implication",
+    "section": "",
+    "text": "This project addresses the global implications of US monetary policy and helps policymakers and investors understand different perspectives. By showcasing the PCA and clustering techniques, my project not only extends the technical approaches covered in class but also bridges these methodologies with practical implications in global policy and finance."
+  },
+  {
+    "objectID": "casestudy.html",
+    "href": "casestudy.html",
+    "title": "Case Study",
+    "section": "",
+    "text": "The Guardian\n\nHeadline: US adds 272,000 jobs as labor market holds unexpectedly strong\nSnippet: Figures show unexpected resiliency of job market as Fed keeps interest rates high try to tamp down 3.4% inflation\nLeading Paragraph: The US economy added 272,000 jobs in May, a sign the labor market remained strong amid high interest rates, the Bureau of Labor Statistics announced on Friday.\nProof from the Remaining Texts:\n\n\nThe New York Times\n\nHeadline: U.S. Economic Growth Accelerates, Outpacing Forecasts\nSnippet: Gross domestic product rose at a 2.8 percent annual rate in the second quarter, new evidence of the economy’s resilience despite high interest rates\nLeading Paragraph: Economic growth picked up more than expected in the spring, as cooling inflation and a strong labor market allowed consumers to keep spending even as high interest rates weighed on their finances.\nProof from the Remaining Texts:"
+  },
+  {
+    "objectID": "casestudy.html#cluster-0-analytical-or-optimistic-discussing-progress-or-achievements",
+    "href": "casestudy.html#cluster-0-analytical-or-optimistic-discussing-progress-or-achievements",
+    "title": "Case Study",
+    "section": "",
+    "text": "The Guardian\n\nHeadline: US adds 272,000 jobs as labor market holds unexpectedly strong\nSnippet: Figures show unexpected resiliency of job market as Fed keeps interest rates high try to tamp down 3.4% inflation\nLeading Paragraph: The US economy added 272,000 jobs in May, a sign the labor market remained strong amid high interest rates, the Bureau of Labor Statistics announced on Friday.\nProof from the Remaining Texts:\n\n\nThe New York Times\n\nHeadline: U.S. Economic Growth Accelerates, Outpacing Forecasts\nSnippet: Gross domestic product rose at a 2.8 percent annual rate in the second quarter, new evidence of the economy’s resilience despite high interest rates\nLeading Paragraph: Economic growth picked up more than expected in the spring, as cooling inflation and a strong labor market allowed consumers to keep spending even as high interest rates weighed on their finances.\nProof from the Remaining Texts:"
+  }
+]
