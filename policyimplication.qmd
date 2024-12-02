@@ -1,0 +1,8 @@
+---
+title: "Policy Implication"
+---
+
+This project addresses the global implications of US monetary policy and helps policymakers and
+investors understand different perspectives. By showcasing the PCA and clustering techniques, my
+project not only extends the technical approaches covered in class but also bridges these methodologies
+with practical implications in global policy and finance.

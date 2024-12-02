@@ -1,0 +1,11 @@
+---
+title: "A Comparative Analysis of US Interest Rate Communication Styles: Insights from Media Outlets Across Major Economies"
+---
+
+![](cover_page_picture.png)
+
+As one of the most critical issues of the 21st century, the COVID-19 pandemic was widely discussed for its public health threat during the pandemic era. In the post-pandemic era, however, the focus has shifted to its role in triggering a global financial crisis. Supply chain disruptions and shortages in goods and services have driven up prices, contributing to inflation in the post-pandemic era. Additionally, the Russia-Ukraine war has further intensified inflationary pressures, particularly by increasing energy and food costs.
+
+Like other major economies, the United States has not been immune to the financial challenges caused by both the pandemic and the Russia-Ukraine conflict. In response to these inflationary pressures, the Federal Reserve raised the Federal Funds Rate from 0.25% to 5.5% between March 17, 2022, and July 26, 2024. However, these prolonged high interest rates have had adverse effects on the global economy. Higher US interest rates have attracted both domestic and international investors, leading to capital outflows that can destabilize emerging markets by weakening their local currencies. At the same time, these rates have disrupted global trade: while countries dependent on exports may benefit from increased demand due to relatively cheaper prices for US consumers, the higher borrowing costs in the US significantly dampen consumer spending and investment.
+
+Given these global economic ramifications, it is crucial to study how media outlets from different countries report and interpret US monetary policy. Understanding these cross-national media narratives can offer valuable insights for policymakers and investors, helping them better anticipate the potential impacts of US interest rate changes on foreign markets.

@@ -1,0 +1,49 @@
+---
+title: "Introduction"
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+## Data
+
+This study aims to collect data from media outlets in major economies to
+facilitate a comprehensive comparison of communication styles regarding
+US monetary policy. However, due to limited access to some media
+outlets' APIs, the study will focus on data from sources that offer free
+API subscriptions. The two media sources having publicly available API
+are The New York Times and The Guardian; thus, this scope of this study
+will be comparing the media communication styles between the Unites
+States and the United Kingdom.
+
+The current dataset consists of 500 observations, with 250 from The New
+York Times and 250 from The Guardian. The dataset includes the following
+features: `headline`, `snippet`, `leading paragraph`, `website url`,
+`source`, and `publication date`.
+
+## Methodology
+
+To compare communication styles across media outlets from different
+countries, this study will employ the following data science
+methodologies:
+
+-   **Dimensionality Reduction (PCA)**: Principal Component Analysis
+    will be applied to reduce the complexity of the text data, focusing
+    on key features from media outlets in various countries. This
+    technique allows for comparisons based on a smaller subset of
+    features that capture the greatest variance in communication styles.
+    One example of PCA application that could serve as a reference
+    involves researchers collecting text data from political debates and
+    speeches. They extracted key linguistic features, such as sentiment,
+    keyword frequency, and tone, and applied PCA to reduce the number of
+    variables. This enabled them to identify underlying dimensions and
+    map out how different political parties' communication styles
+    varied.
+
+-   **Clustering Analysis**: After reducing the dimensionality of the
+    dataset, clustering techniques such as k-means or hierarchical
+    clustering will be used to group media outlets based on the
+    similarities in their communication styles. This approach will help
+    identify which countries or regions tend to adopt similar narrative
+    patterns when discussing US interest rates, potentially reflecting
+    geopolitical or economic alignment.

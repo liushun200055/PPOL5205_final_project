@@ -1,0 +1,81 @@
+---
+title: "Case Study"
+---
+
+## Cluster 0: Analytical or optimistic, discussing progress or achievements
+
+*The Guardian*
+
+-   Headline: [**US adds 272,000 jobs as labor market holds unexpectedly strong**](https://www.theguardian.com/business/article/2024/jun/07/may-jobs-report)
+
+-   Snippet: Figures show unexpected resiliency of job market as Fed keeps interest rates high try to tamp down 3.4% inflation
+
+-   Leading Paragraph: The US economy added 272,000 jobs in May, a sign the labor market remained strong amid high interest rates, the Bureau of Labor Statistics announced on Friday.
+
+-   Proof from the Remaining Texts:
+
+    ![](_site/Article1_quote1.png){width="518"}
+
+*The New York Times*
+
+-   Headline: [**U.S. Economic Growth Accelerates, Outpacing Forecasts**](https://www.nytimes.com/2024/07/25/business/economy/us-gdp-economy-inflation.html)
+
+-   Snippet: Gross domestic product rose at a 2.8 percent annual rate in the second quarter, new evidence of the economy's resilience despite high interest rates
+
+-   Leading Paragraph: Economic growth picked up more than expected in the spring, as cooling inflation and a strong labor market allowed consumers to keep spending even as high interest rates weighed on their finances.
+
+-   Proof from the Remaining Texts:
+
+    ![](_site/Article2_quote1.png){width="516"}
+
+## Cluster 1: More confrontational or dramatic, with words suggesting conflict or victory
+
+*The Guardian*
+
+-   Headline: [**America's fight with inflation has been won -- just in time for a bigger battle**](https://www.theguardian.com/business/2024/nov/03/americas-fight-with-inflation-has-been-won-just-in-time-for-a-bigger-battle)
+
+-   Snippet: The Fed is likely to cut base rates this month -- but its decision will come the day after an explosive US election
+
+-   Leading Paragraph: There could be recriminations, protest marches and even social unrest on US city streets when Federal Reserve officials meet at their Washington HQ a day after the election of a new president on 5 November.
+
+-   Proof from the Remaining Texts:
+
+    ![](_site/Article3_quote1.png){width="512"}
+
+*The New York Times*
+
+-   Headline: [**Why You Should Be Taking a Hard Look at Your Investments Right Now**](https://www.nytimes.com/2024/08/02/business/stocks-bonds-rebalancing-asset-allocation.html)
+
+-   Snippet: After big gains in stocks and mediocre returns for bonds, investors are taking on undue risk if they don't rebalance their holdings, our columnist says.
+
+-   Leading Paragraph: All eyes were on the Federal Reserve this past week, or so several market analysts solemnly said. This was true even though the Fed essentially did nothing in its latest meeting but hold interest rates high to fight inflation, just as it has done for many months.
+
+-   Proof from the Remaining Texts:
+
+    ![](_site/Article4_quote1.png){width="518"}
+
+## Cluster 2: Descriptive, focused on changes, challenges, or actions
+
+*The Guardian*
+
+-   Headline: [ECB cuts interest rate to 3.5% and warns of weak eurozone growth](https://www.theguardian.com/business/2024/sep/12/economic-growth-in-eurozone-will-be-weaker-than-hoped-says-ecb)
+
+-   Snippet: European Central Bank makes 0.25-point cut as expected after eurozone inflation fell to 2.2% in August
+
+-   Leading Paragraph: The European Central Bank has lowered interest rates for the second time this year, as it warned that economic growth in the eurozone will be weaker than it had hoped.
+
+-   Proof from the Remaining Texts:
+
+    ![](_site/Article5_quote1.png){width="569"}
+
+*The New York Times*
+
+-   Headline: [What Trump Has Said About Rates, and Why It Matters](https://www.nytimes.com/2024/09/18/business/economy/trump-interest-rates.html)
+
+-   Snippet: He has suggested that presidents should "have a say" on interest rates, though he later walked the comment back.
+
+-   Leading Paragraph: Federal Reserve officials do not answer to the White House and they insist that they do not take politics into account when they are setting interest rates. But because borrowing costs have a big effect on the economy and the nation's economic vibe, the central bank's decision on Wednesday is sure to draw political attention.
+
+-   Proof from the Remaining Texts:
+
+    ![](_site/Article6_quote1.png){width="524"}
